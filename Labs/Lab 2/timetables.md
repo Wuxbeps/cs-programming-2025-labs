@@ -7,3 +7,5 @@
 [Расписание на неделю 2](timetable_2w.md)
 
 [Расписание на неделю 3](timetable_3w.md)
+
+![alt еtext](ae9be178fac17c37c1ef47e1a0c06241.jpg)
