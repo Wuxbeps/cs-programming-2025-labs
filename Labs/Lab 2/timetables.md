@@ -5,3 +5,5 @@
 [Расписание на неделю 2](timetable_2w.md)
 
 [Расписание на неделю 3](timetable_3w.md)
+
+![alt text](image.png)
